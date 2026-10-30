@@ -2,8 +2,8 @@
 
 Checkpoint 3: uma aplicação analítica interativa em **Streamlit** que junta a análise exploratória (Parte 1) e o modelo preditivo de cancelamento de clientes (Parte 2).
 
-🔗 **Aplicação online:** `COLE_AQUI_A_URL_DO_STREAMLIT_CLOUD`
-🔗 **Repositório:** `COLE_AQUI_A_URL_DO_GITHUB`
+🔗 **Aplicação online:** `https://cp03-ds-ezv5gdyihthntpeh6ilvhe.streamlit.app/`
+🔗 **Repositório:** `https://github.com/DannelsCS/CP03-DS/tree/main`
 
 ## Fonte dos dados
 
